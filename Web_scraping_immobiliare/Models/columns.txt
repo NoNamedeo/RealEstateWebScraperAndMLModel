@@ -1,0 +1,25 @@
+Piani edificio
+Arredato
+Ascensore
+Balcone
+Terrazzo
+Cantina
+Accesso disabili
+Locali
+Camere da letto
+Bagni
+Piano
+Cucina
+Giardino
+Stato
+Superficie
+Anno di costruzione
+Anno non riportato
+parcheggio/garage comune
+box privato/box in garage
+Climatizzazione
+Climatizzatore
+Classe energetica
+Riscaldamento
+Certificazione energetica
+Pseudo-quartiere
